@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lucas Lessa</h1>
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3>
-<img align="center" border-radius="5" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" radius="5" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 >
 
-- 💬 Ask me about **React,Java,Kotlin**
+- 💬 Ask me about **Javascript,React,Java,Kotlin**
 
 - 📫 How to reach me **oliverlucas983@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
