@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Lessa</h1>
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3>
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" border-radius="5" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 >
 
