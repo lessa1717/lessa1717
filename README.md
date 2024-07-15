@@ -4,7 +4,7 @@
 
 >
 
-- 💬 Ask me about **Javascript,React,Java,Kotlin**
+- 💬 Ask me about **Java, C#,Angular, React, Java, Kotlin**
 
 - 📫 How to reach me **oliverlucas983@gmail.com**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/lucaslessa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lucaslessa" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-lessa-oliveira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-lessa-oliveira/" height="30" width="40" /></a>
 </p>
 
