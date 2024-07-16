@@ -28,8 +28,8 @@
   <img align="center" alt="C#" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   <h3 align="center">Mobile</h3>
+  <img align="center" alt="Java para Android" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
   <img align="center" alt="Kotlin" height="70" width="70" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
-  <img align="center" alt="Jetpack Compose" height="70" width="70" src="https://developer.android.com/images/kotlin/compose.svg">
   
   <h3 align="center">Bancos de Dados</h3>
   <img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
