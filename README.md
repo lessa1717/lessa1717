@@ -37,7 +37,6 @@
   
   <h3 align="center">Ferramentas</h3>
   <img align="center" alt="Git" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  <img align="center" alt="VS Code" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Postman" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
   
