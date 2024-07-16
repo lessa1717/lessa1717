@@ -24,7 +24,7 @@
   <h3 align="center">Back-End</h3>
   <img align="center" alt="Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="70" width="70" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-  <img align="center" alt="Node.js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Node.js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="C#" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   <h3 align="center">Mobile</h3>
