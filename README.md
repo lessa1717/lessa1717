@@ -38,6 +38,10 @@
   <h3 align="center">Ferramentas</h3>
   <img align="center" alt="Git" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="VS Code" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="Visual Studio 2022" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+ <img align="center" alt="IntelliJ IDEA" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+<img align="center" alt="Android Studio" height="70" width="70" src="https://www.vectorlogo.zone/logos/android/android-official.svg">
+
   <img align="center" alt="Postman" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
   
   <h3 align="center">Outras</h3>
