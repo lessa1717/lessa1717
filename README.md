@@ -1,5 +1,8 @@
 
-<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Me chamo Lucas Lessa, e esse é o meu perfil!!</h1
+<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Me chamo Lucas Lessa, e esse é o meu perfil!!</h1>
+<p align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius: 5px;">
+</p>
 
 Desenvolvedor e Instrutor, 
 
@@ -9,14 +12,13 @@ Minha missão é mudar a vida das pessoas utilizando tecnologia.
 
 - 🔭 Atualmente trabalho como Instrutor na Escola SENAI "Paulo Antônio Skaf", especializada na área de Tecnologia da Informação
 - 📫 Fale comigo:
+ **oliverlucas983@gmail.com**
 <br><br>
   
-<p align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius: 5px;">
-</p>
 
-- 💬 Ask me about **Java, C#, Angular, React, Kotlin**
-- 📫 How to reach me **oliverlucas983@gmail.com**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
