@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Lucas Lessa</h1>
-<h3 align="center">A passionate Full-Stack developer from Brazil</h3>
+<h1 align="center">Olá<br>eu sou o Lucas Lessa<br>e seja bem vindo ao meu perfil 👋</h1>
+<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Me chamo Thiago Nascimento, e esse é o meu perfil!!</h1
+
+Desenvolvedor e Instrutor, 
+
+Iniciei na área de desenvolvimento de sistemas em 2017, e desde então venho contribuindo com as pessoas ao meu redor compartilhando conhecimento.
+
+Minha missão é mudar a vida das pessoas utilizando tecnologia.
+
+- 🔭 Atualmente trabalho como Instrutor na Escola SENAI "Paulo Antônio Skaf", especializada na área de Tecnologia da Informação
+- 📫 Fale comigo:
+<br><br>
+  
 <p align="center">
   <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius: 5px;">
 </p>
