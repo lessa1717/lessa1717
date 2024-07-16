@@ -3,7 +3,12 @@
 ## Sobre mim
 - 🌍 Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras.
 - 🎓 Bacharel em Ciência da Computação pela Universidade Paulista.
-- 💼 Atualmente trabalho como Instrutor na Escola SENAI "Paulo Antônio Skaf", especializada na área de Tecnologia da Informação.
+- 💼 Atualmente sou instrutor na Escola SENAI "Paulo Antônio Skaf", onde compartilho meu conhecimento na área de Tecnologia da Informação.
+
+## Minha abordagem
+Comecei minha jornada no desenvolvimento de sistemas em [ano de início] e desde então venho explorando novas tecnologias e buscando maneiras de aplicar meu conhecimento de forma criativa e impactante.
+
+Minha abordagem é conectar pessoas através da tecnologia, criando soluções que não apenas resolvem problemas, mas também transformam experiências.
 
 ## Habilidades
 <div align="center" style="display: inline_block">
@@ -66,4 +71,8 @@
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lessa1717&layout=compact&theme=dark)
 
 ## Contribuições recentes
-![Contribuições recentes](https://github-readme-streak-stats
+![Contribuições recentes](https://github-readme-streak-stats.herokuapp.com/?user=lessa1717&theme=dark)
+
+---
+
+⭐️ Se gostou do meu perfil, não hesite em me seguir e entrar em contato! 😊
