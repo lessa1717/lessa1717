@@ -5,7 +5,6 @@
 - 🎓 Bacharel em Ciência da Computação pela Universidade Paulista.
 - 💼 Atualmente sou instrutor na Escola SENAI "Paulo Antônio Skaf", onde compartilho meu conhecimento na área de Tecnologia da Informação.
 
-## Minha abordagem:
 Comecei minha jornada no desenvolvimento de sistemas em 2023 e desde então venho explorando novas tecnologias e buscando maneiras de aplicar meu conhecimento de forma criativa e impactante.
 
 Minha abordagem é conectar pessoas através da tecnologia, criando soluções que não apenas resolvem problemas, mas também transformam  experiências e vidas.
