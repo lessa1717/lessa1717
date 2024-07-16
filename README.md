@@ -7,7 +7,7 @@
 
 Comecei minha jornada no desenvolvimento de sistemas em 2023 e desde então venho explorando novas tecnologias e buscando maneiras de aplicar meu conhecimento de forma criativa e impactante.
 
-Minha abordagem é conectar pessoas através da tecnologia, criando soluções que não apenas resolvem problemas, mas também transformam  experiências e vidas.
+Minha abordagem é conectar pessoas através da tecnologia, desenvolvendo soluções que não apenas resolvem problemas, mas também transformam experiências e melhoram vidas.
 
 ## Habilidades:
 <div align="center" style="display: inline_block">
@@ -37,7 +37,8 @@ Minha abordagem é conectar pessoas através da tecnologia, criando soluções q
   
   <h3 align="center">Bancos de Dados</h3>
   <img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="SQL Server" height="70" width="70" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg">
+  <img align="center" alt="Firebase" height="70" width="70" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   
   <h3 align="center">Ferramentas</h3>
   <img align="center" alt="Git" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
