@@ -37,7 +37,7 @@ Minha abordagem é conectar pessoas através da tecnologia, desenvolvendo soluç
   
   <h3 align="center">Bancos de Dados</h3>
   <img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQL Server" height="70" width="70" src="https://img.icons8.com/color/70/sql-database.png">
+  <img align="center" alt="SQL Server" height="70" width="70" src="https://img.icons8.com/color/70/000000/microsoft-sql-server.png">
   <img align="center" alt="Firebase" height="70" width="70" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   
   <h3 align="center">Ferramentas</h3>
