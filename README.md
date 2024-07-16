@@ -1,5 +1,5 @@
-<h1 align="center">Olá<br>eu sou o Lucas Lessa<br>e seja bem vindo ao meu perfil 👋</h1>
-<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Me chamo Thiago Nascimento, e esse é o meu perfil!!</h1
+
+<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Me chamo Lucas Lessa, e esse é o meu perfil!!</h1
 
 Desenvolvedor e Instrutor, 
 
