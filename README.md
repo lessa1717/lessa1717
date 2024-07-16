@@ -7,7 +7,7 @@
 
 Comecei minha jornada no desenvolvimento de sistemas em 2023 e desde então venho explorando novas tecnologias e buscando maneiras de aplicar meu conhecimento de forma criativa e impactante.
 
-Minha abordagem é conectar pessoas através da tecnologia, desenvolvendo soluções que não apenas resolvem problemas, mas também transformam experiências e melhoram vidas.
+Minha abordagem é conectar pessoas através da tecnologia, criando soluções que não apenas resolvem problemas, mas também transformam experiências e vidas.
 
 ## Habilidades:
 <div align="center" style="display: inline_block">
@@ -26,6 +26,7 @@ Minha abordagem é conectar pessoas através da tecnologia, desenvolvendo soluç
   <img align="center" alt="Angular Material" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularmaterial/angularmaterial-original.svg">
   
   <h3 align="center">Back-End</h3>
+  <img align="center" alt=".NET Framework" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="70" width="70" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img align="center" alt="Node.js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
@@ -37,8 +38,7 @@ Minha abordagem é conectar pessoas através da tecnologia, desenvolvendo soluç
   
   <h3 align="center">Bancos de Dados</h3>
   <img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQL Server" height="70" width="70" src="https://img.icons8.com/color/70/000000/microsoft-sql-server.png">
-  <img align="center" alt="Firebase" height="70" width="70" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  <img align="center" alt="SQL Server" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   
   <h3 align="center">Ferramentas</h3>
   <img align="center" alt="Git" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
