@@ -6,10 +6,39 @@
 - 💼 Atualmente trabalho como Instrutor na Escola SENAI "Paulo Antônio Skaf", especializada na área de Tecnologia da Informação.
 
 ## Habilidades
-- 💻 Experiente em Java, C#, Angular, React.
-- 📱 Desenvolvimento de aplicativos móveis com Java e Kotlin.
-- 🌐 Conhecimento sólido em HTML, CSS, JavaScript, TypeScript.
-- 🛠️ Familiarizado com ferramentas como Git, Bootstrap, Figma, Spring Framework.
+<div align="center" style="display: inline_block">
+  
+  ### Linguagens e Ferramentas
+  
+  <h3 align="center">Front-End</h3>
+  <img align="center" alt="JavaScript" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML5" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="70" width="70" src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-512.png">
+  <img align="center" alt="Bootstrap" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Sass" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Angular Material" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularmaterial/angularmaterial-original.svg">
+  
+  <h3 align="center">Back-End</h3>
+  <img align="center" alt="Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="70" width="70" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <img align="center" alt="Node.js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  
+  <h3 align="center">Bancos de Dados</h3>
+  <img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  
+  <h3 align="center">Ferramentas</h3>
+  <img align="center" alt="Git" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VS Code" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Postman" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+  
+  <h3 align="center">Outras</h3>
+  <img align="center" alt="Figma" height="70" width="70" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="Unity" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+</div>
 
 ## Como me encontrar
 - 📧 Email: oliverlucas983@gmail.com
