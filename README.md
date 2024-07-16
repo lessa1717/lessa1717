@@ -30,6 +30,7 @@ Minha abordagem é conectar pessoas através da tecnologia, desenvolvendo soluç
   <img align="center" alt="Spring" height="70" width="70" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img align="center" alt="Node.js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="C#" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="SQL Server" height="70" width="70" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg">
   
   <h3 align="center">Mobile</h3>
   <img align="center" alt="Java para Android" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
@@ -37,7 +38,6 @@ Minha abordagem é conectar pessoas através da tecnologia, desenvolvendo soluç
   
   <h3 align="center">Bancos de Dados</h3>
   <img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQL Server" height="70" width="70" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg">
   <img align="center" alt="Firebase" height="70" width="70" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   
   <h3 align="center">Ferramentas</h3>
