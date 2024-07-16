@@ -1,19 +1,19 @@
 # Olá, eu sou Lucas Lessa! 👋
 
-## Sobre mim
+## Sobre mim:
 - 🌍 Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras.
 - 🎓 Bacharel em Ciência da Computação pela Universidade Paulista.
 - 💼 Atualmente sou instrutor na Escola SENAI "Paulo Antônio Skaf", onde compartilho meu conhecimento na área de Tecnologia da Informação.
 
-## Minha abordagem
-Comecei minha jornada no desenvolvimento de sistemas em [ano de início] e desde então venho explorando novas tecnologias e buscando maneiras de aplicar meu conhecimento de forma criativa e impactante.
+## Minha abordagem:
+Comecei minha jornada no desenvolvimento de sistemas em 2023 e desde então venho explorando novas tecnologias e buscando maneiras de aplicar meu conhecimento de forma criativa e impactante.
 
-Minha abordagem é conectar pessoas através da tecnologia, criando soluções que não apenas resolvem problemas, mas também transformam experiências.
+Minha abordagem é conectar pessoas através da tecnologia, criando soluções que não apenas resolvem problemas, mas também transformam  experiências e vidas.
 
-## Habilidades
+## Habilidades:
 <div align="center" style="display: inline_block">
   
-  ### Linguagens e Ferramentas
+  ### Linguagens e Ferramentas:
   
   <h3 align="center">Front-End</h3>
   <img align="center" alt="JavaScript" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -54,7 +54,7 @@ Minha abordagem é conectar pessoas através da tecnologia, criando soluções q
   
 </div>
 
-## Como me encontrar
+## Como me encontrar:
 <div align="center">
   <a href="mailto:oliverlucas983@gmail.com">
     <img src="https://img.shields.io/badge/Email-oliverlucas983%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
