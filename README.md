@@ -25,6 +25,11 @@
   <img align="center" alt="Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="70" width="70" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img align="center" alt="Node.js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="C#" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+  <h3 align="center">Mobile</h3>
+  <img align="center" alt="Kotlin" height="70" width="70" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
+  <img align="center" alt="Jetpack Compose" height="70" width="70" src="https://developer.android.com/images/kotlin/compose.svg">
   
   <h3 align="center">Bancos de Dados</h3>
   <img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
