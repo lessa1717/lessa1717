@@ -42,7 +42,7 @@
   
   <h3 align="center">Outras</h3>
   <img align="center" alt="Figma" height="70" width="70" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img align="center" alt="Unity" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  
 </div>
 
 ## Como me encontrar
