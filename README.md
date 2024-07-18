@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 - 🌍 Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras.
-/*- 🎓 Bacharel em Ciência da Computação pela Universidade Paulista.*/
+- 🎓 Bacharel em Ciência da Computação pela Universidade Paulista.
 - 💼 Atualmente sou instrutor na Escola SENAI "Paulo Antônio Skaf", onde compartilho meu conhecimento na área de Tecnologia da Informação.
 
 Comecei minha jornada no desenvolvimento de sistemas em 2023 e desde então venho explorando novas tecnologias e buscando maneiras de aplicar meu conhecimento de forma criativa e impactante.
